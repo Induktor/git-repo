@@ -1,1 +1,1 @@
-print("Hellow world");
+printf("Hellow world");
